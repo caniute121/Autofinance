@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AutoFinance/.vs
+/AutoFinance/bin/Debug
+**/bin/Debug
+**/bin
+**/obj
+/AutoFinance/bin/Debug
+**/*.csproj.user
+/AutoFinance/%USERPROFILE%/AppData/Local/Temp
+**/packages
+**/UpgradeLog*.htm
